@@ -1,0 +1,2 @@
+TIMESTAMP | NOMBRE | APELLIDO | EMAIL | TELEFONO | CODIGO_REFERIDO
+================================================================================
